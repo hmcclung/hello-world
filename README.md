@@ -1,4 +1,4 @@
 # hello-world
 Intro to repository
 
-Hello world! This is the editor where I can edit things.
+Welcome to my GitHub account. Currently, the only documents I have uploaded are the Algorithms I created in MATLAB for my Numerical Methods course.
